@@ -4,13 +4,18 @@ about: Add the requirements for the feature + feature spec below
 
 ---
 
-**Requirement Summary**
+**Requirements**
 
+*Summary*
 
+*Specification*
 [Feature Specification](url)
 
 
+
 **Subtask Breakdown**
+
+
 
 
 **Completion Checklist**
