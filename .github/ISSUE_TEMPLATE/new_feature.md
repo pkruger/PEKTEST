@@ -10,7 +10,12 @@ about: Add the requirements for the feature + feature spec below
 [Feature Specification](url)
 
 
+**Subtask Breakdown**
+
+
 **Completion Checklist**
+
+[ ] - Have all the subtasks been completed, reviewed and merged?
 
 [ ] - Have the Apps team been informed of any changes required?
 
