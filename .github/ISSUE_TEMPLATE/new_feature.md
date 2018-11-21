@@ -7,18 +7,22 @@ about: Add the requirements for the feature + feature spec below
 **Requirements**
 
 *Summary*
+Add a short description of the feature.
+
 
 *Specification*
+Add a link to the feature specification.
 [Feature Specification](url)
 
 
 
 **Subtask Breakdown**
-
+Break the feature down into subtasks and list them here.
 
 
 
 **Completion Checklist**
+Before the issue is closed, verify that the following have been checked - some items may not be applicable.
 
 [ ] - Have all the subtasks been completed, reviewed and merged?
 
