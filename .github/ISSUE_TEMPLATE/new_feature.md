@@ -7,16 +7,20 @@ about: Add the requirements for the feature + feature spec below
 **Requirements**
 
 *Summary*
+
 Add a short description of the feature.
 
 
 *Specification*
+
 Add a link to the feature specification.
+
 [Feature Specification](url)
 
 
 
 **Subtask Breakdown**
+
 Break the feature down into subtasks and list them here.
 
 
